@@ -1,0 +1,27 @@
+.home-page {
+  display: flex;
+  justify-content: center;
+  padding: 35px 10px;
+  @media only screen and (min-width: 1024px) {
+    padding: 35px 0px;
+  }
+}
+
+.home-page .wrapper {
+  max-width: 1024px;
+  display: flex;
+  flex: 1;
+}
+
+.home-page .wrapper ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.home-page .wrapper li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

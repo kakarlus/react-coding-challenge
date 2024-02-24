@@ -1,0 +1,18 @@
+a.card {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  max-width: 134px;
+  display: flex;
+  flex-direction: column;
+}
+
+a.card .poster {
+  margin-bottom: 5px;
+}
+
+a.card .poster img {
+  width: 134px;
+  height: 201px;
+  object-fit: contain;
+}
