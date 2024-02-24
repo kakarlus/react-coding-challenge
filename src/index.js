@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Home from './pages/home/Home.js';
+import Home from './components/home/Home.js';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import HomeLayout from './layouts/MainLayout.js';
-import ShowsContainer from './pages/shows-container/ShowsContainer.js';
-// import Series from './pages/series/Series.js';
+import ShowsContainer from './components/shows-container/ShowsContainer.js';
 
 const router = createBrowserRouter([
   {

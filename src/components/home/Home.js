@@ -1,5 +1,5 @@
-import Card from '../../components/card/Card';
-import PageTitle from '../../components/page-title/PageTitle';
+import Card from '../card/Card';
+import PageTitle from '../page-title/PageTitle';
 import './Home.css';
 
 function Home() {

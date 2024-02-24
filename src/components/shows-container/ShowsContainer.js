@@ -1,7 +1,7 @@
-import Card from '../../components/card/Card';
-import PageTitle from '../../components/page-title/PageTitle';
-import IndefiniteLoader from '../../components/loader-progress/IndefiniteLoader';
-import LoadError from '../../components/loader-progress/LoadError';
+import Card from '../card/Card';
+import PageTitle from '../page-title/PageTitle';
+import IndefiniteLoader from '../loader-progress/IndefiniteLoader';
+import LoadError from '../loader-progress/LoadError';
 import './ShowsContainer.css';
 import React, { useState, useEffect } from 'react';
 
