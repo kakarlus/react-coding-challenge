@@ -33,7 +33,7 @@ Desktop 769px and beyond
 - The cards for shows could be more responsive, instead of just bumping the cards down to the next line
 - TDD
 - Refactor constants
-- Refactor css
+- Refactor css, use BEM
 
 ## Scripts
 

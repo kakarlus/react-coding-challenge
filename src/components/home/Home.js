@@ -13,7 +13,7 @@ function Home() {
               <Card link={"/series"} title={"Popular Series"} poster={"./poster-series.png"} />
             </li>
             <li>
-              <Card link={"/movies"} title={"Popular Series"} poster={"./poster-movies.png"} />
+              <Card link={"/movies"} title={"Popular Movies"} poster={"./poster-movies.png"} />
             </li>
           </ul>
         </div>
